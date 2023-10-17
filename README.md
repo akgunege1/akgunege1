@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akgunege1
-- 👀 I’m interested in motoycles,sailoring,music and coding.
+- 👀 I’m interested in motocycles,sailoring,music and coding.
 - 🌱 I’m currently learning about software development.
 - 📫 My e-mail: akgunegebusiness@gmail.com
 
