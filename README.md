@@ -49,6 +49,6 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="[(https://www.linkedin.com/in/berat-ege-akgun/)]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
   <a href="mailto:your@email.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="email" height="30" width="30"/></a>
 </p>
