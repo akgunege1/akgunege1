@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Egemen</h1>
+<h1 align="center">Hi 👋, I'm Ege</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **React.js projects**
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, JavaScript, or anything web-related**
 
-- 📫 How to reach me: **[your email or LinkedIn]**
+- 📫 How to reach me: **akgunegeedu@gmail.com**
 
 - ⚡ Fun fact: I love building things from scratch and optimizing code like a puzzle 🧩
 
@@ -49,6 +49,6 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="[(https://www.linkedin.com/in/berat-ege-akgun/)]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/berat-ege-akgun/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
   <a href="mailto:your@email.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="email" height="30" width="30"/></a>
 </p>
