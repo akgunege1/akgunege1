@@ -1,9 +1,54 @@
-- 👋 Hi, I’m @akgunege1
-- 👀 I’m interested in motocycles,sailoring,music and coding.
-- 🌱 I’m currently learning about software development.
-- 📫 My e-mail: akgunegebusiness@gmail.com
+<h1 align="center">Hi 👋, I'm Egemen</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<!---
-akgunege1/akgunege1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **React.js projects**
+
+- 🌱 I’m currently learning **Blockchain development and smart contracts**
+
+- 👯 I’m looking to collaborate on **open source React or Web3 projects**
+
+- 💬 Ask me about **React, JavaScript, or anything web-related**
+
+- 📫 How to reach me: **[your email or LinkedIn]**
+
+- ⚡ Fun fact: I love building things from scratch and optimizing code like a puzzle 🧩
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akgunege1&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akgunege1&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akgunege1&theme=radical&row=1" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:your@email.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="email" height="30" width="30"/></a>
+</p>
