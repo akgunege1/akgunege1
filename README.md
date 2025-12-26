@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **akgunegeedu@gmail.com**
 
-- ⚡ Fun fact: I love building things from scratch and optimizing code like a puzzle 🧩
+- ⚡ Fun fact: I love building things from scratch
 
 ---
 
